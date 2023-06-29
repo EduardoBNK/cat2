@@ -1,0 +1,26 @@
+.fundo{
+    background: url(../gatinho.jpg);
+    background-size: cover;
+    margin: 0;
+    color: white;
+
+}
+.textosite ul {
+    list-style: none;
+    font-size:35px;
+    font-family: cursive;
+    background-color: rgba(255, 255, 255, 0.253);
+    text-align: end;
+    padding: 10px;
+    margin: 0;
+    
+}
+.textosite ul li{
+    display: inline-block;
+    padding: 10px;
+    color: black;
+ 
+}
+.textosite ul li a:hover{
+    color: white;
+}
